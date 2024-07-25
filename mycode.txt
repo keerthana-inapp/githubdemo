@@ -1,0 +1,2 @@
+print myfirstline
+print mysecondline
