@@ -1,2 +1,3 @@
 print myfirstline
 print mysecondline
+print mythirdline
