@@ -7,7 +7,9 @@ THE CHANGES ARE MADE.
 
 new  and latest line added.
 This team pushed the message.
+Another statement to demonstrate fetch and merge.
 
+Done the changes.
 
 
 edited in local file 
